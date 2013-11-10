@@ -1,3 +1,3 @@
 <form method='post' action='helloworld.php'>
-	<input type="button">Click Me!!!</input>
+	<input type="button" value="Click Me"/>
 </form>
